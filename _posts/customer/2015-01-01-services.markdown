@@ -1,0 +1,10 @@
+---
+layout: default
+img: neighbor_store.svg
+category: Services
+title: Think Global, Support Local
+description: |
+---
+  Shop at your home comfort, get it delivered from your neighbourhood store..
+  
+  <br>Groceries and more, delivered to your door

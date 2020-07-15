@@ -1,0 +1,8 @@
+---
+layout: default
+img: group_shoppers.png
+category: Services
+title: Same App, Many Stores
+description: |
+---
+  Enjoy shopping from multiple stores from your neighbourhood with single app!

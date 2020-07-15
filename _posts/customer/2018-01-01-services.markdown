@@ -1,0 +1,9 @@
+---
+layout: default
+img: howitworks.png
+category: Services
+title: How it Works!
+description: |
+---
+  Its way too simple. All you do is to select your store, add products to your basket and checkout. <br><br>
+  Products get delivered to your doorstep by your neighbourhood store.

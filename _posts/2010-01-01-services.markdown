@@ -1,0 +1,8 @@
+---
+layout: default
+img: icon_pink_bkg.png
+category: Services
+title: What is QuickCheckout
+description: |
+---
+  QuickCheckout is a mobile-first designed solution for online shopping from your neighbourhood store. Order from your favourite neighbourhood stores and even discover new ones! The app is free, easy to use, and convenient. With the QuickCheckout app, access your favourite stores and search products on your phone—anytime, anywhere

@@ -1,0 +1,65 @@
+    <section id="c_testimonial">  
+      <script src="js/jquery-1.12.4.min.js"></script>
+      <script src="js/wb.carousel.min.js"></script>
+      <script>
+      $(document).ready(function()
+      {
+         var Carousel1Opts =
+         {
+            delay: 3000,
+            duration: 500,
+            easing: 'linear',
+            mode: 'forward',
+            direction: '',
+            pagination: true,
+            pagination_img_default: 'images/Carousel1-default.png',
+            pagination_img_active: 'images/Carousel1-active.png',
+            pause: null,
+            start: 0
+         };
+         $("#Carousel1").carousel(Carousel1Opts);
+         $("#Carousel1_back a").click(function()
+         {
+            $('#Carousel1').carousel('prev');
+         });
+         $("#Carousel1_next a").click(function()
+         {
+            $('#Carousel1').carousel('next');
+         });
+      });
+      </script>
+      <div id="wb_Carousel1" style="position:absolute;left:64px;top:157px;width:591px;height:218px;z-index:4;overflow:hidden;">
+        <div id="Carousel1" style="position:absolute;">
+        <div class="frame frame-1">
+        <div id="wb_Text2" style="position:absolute;left:56px;top:21px;width:484px;height:42px;z-index:0;">
+        <div style="font-family:Arial;font-size:13px;line-height:20px;color:#000000;">
+        <div><span style="font-size:19px;line-height:29px;">&quot;</span><span style="font-size:19px;line-height:29px;">This app is simple and good enough for online shopping. I can order from many nearby stores as well </span><span style="font-size:19px;line-height:29px;">&quot;</span></div>
+        </div>
+        </div>
+        </div>
+        <div class="frame frame-2">
+        <div id="wb_Text3" style="position:absolute;left:651px;top:24px;width:484px;height:92px;z-index:1;">
+        <div style="font-family:Arial;font-size:13px;line-height:20px;color:#000000;">
+        <div><span style="font-size:19px;line-height:29px;">This was a missing link that is now connected by QC. We have online retailers but they lack relationship the way maintained by neighbourhood store. Our area shop keeper knows us and often remembers our choice too. </span></div>
+        </div>
+        </div>
+        </div>
+        <div class="frame frame-3">
+        <div id="wb_Text4" style="position:absolute;left:1240px;top:23px;width:484px;height:112px;z-index:2;">
+        <div style="font-family:Arial;font-size:13px;line-height:20px;color:#000000;">
+        <div><span style="font-size:19px;line-height:29px;">Quality of Grocery products is something that keeps changing especially for loose items like Rice, Turdal. Kirana store guy knows it and suggests what to go for. Same experience now online through QuickCheckout is commendable. </span></div>
+        </div>
+        </div>
+        </div>
+        <div class="frame">
+        </div>
+        </div>
+        <div id="Carousel1_back"><a><img alt="Back" src="images/carousel_back.png"></a></div>
+        <div id="Carousel1_next"><a><img alt="Next" src="images/carousel_next.png"></a></div>
+        </div>
+        <div id="wb_Text1" style="position:absolute;left:150px;top:102px;width:412px;height:31px;z-index:5;">
+        <div style="font-family:Arial;font-size:13px;line-height:20px;color:#000000;">
+        <div><span style="font-size:24px;line-height:37px;"><strong>Testimonials</strong></span></div>
+        </div>
+        </div>
+    </section>

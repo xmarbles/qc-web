@@ -1,0 +1,10 @@
+---
+layout: default
+img: online_shopping.png
+category: Services
+title: Contactless | Safety
+description: |
+---
+  Reduce risk, go for contactless shopping using QuickCheckout. Delivery from your known neighbourhood shop.
+
+    During these times, your risk exposure is reduced with delivery by boys from your local area. Also familiar faces from your local store are better from a safety aspect.

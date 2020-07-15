@@ -1,0 +1,375 @@
+/*!
+ * Start Bootstrap - Landing     Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Montserrat-Italic","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+.lead {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.intro-header {
+    padding-top: 100px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 20px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/happyppl.svg) no-repeat center center;
+    background-size:  contain;
+    /* background-position: center;
+    align-self: center; */
+    /* width:900px; height:700px; */
+    
+    /* justify-content: center; */
+}
+
+.intro-message {
+    position: relative;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.intro-message > h1 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 5em;
+}
+
+.intro-divider {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.intro-message > h3 {
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+@media(max-width:767px) {
+    .intro-message {
+        padding-bottom: 15%;
+    }
+
+    .intro-message > h1 {
+        font-size: 3em;
+    }
+
+    ul.intro-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.intro-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+
+    .intro-divider {
+        width: 100%;
+    }
+}
+
+.network-name {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.content-section-a {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+
+.content-section-b {
+    padding: 50px 0;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.section-heading {
+    margin-bottom: 30px;
+}
+
+.section-heading-spacer {
+    float: left;
+    width: 200px;
+    border-top: 3px solid #e7e7e7;
+}
+
+.banner {
+    padding: 100px 0;
+    color: #f8f8f8;
+    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.download {
+    padding: 50px 0;
+    color: #f8f8f8;
+    background-color: #f8f8f8;
+    /* background-size: cover; */
+}
+.download1 {
+    padding: 40px 0;
+    color: #491212;
+    background-color: #FFFFFF;
+    background: linear-gradient(135deg, #CE96FB 0%, #FFFFFF 100%);
+    /* background-color: #08F7FE;
+    background-size: cover; */
+}
+.download2 {
+    padding: 50px 0;
+    color: #f8f8f8;
+    background-color: #f8f8f8;
+    /* background-size: cover; */
+}
+a
+{
+   color: #0000FF;
+   /* text-decoration: underline; */
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+#wb_Carousel1
+{
+   background-color: #F2F5F7;
+   background-image: none;
+}
+#Carousel1 .frame
+{
+   width: 591px;
+   display: inline-block;
+   float: left;
+   height: 218px;
+}
+#wb_Carousel1 .pagination
+{
+   bottom: 0;
+   left: 0;
+   position: absolute;
+   text-align: center;
+   vertical-align: middle;
+   width: 100%;
+   z-index: 998;
+}
+#wb_Carousel1 .pagination img
+{
+   border-style: none;
+   padding: 12px 12px 12px 12px;
+}
+#Carousel1_back
+{
+   position: absolute;
+   left: 4px;
+   top: 43%;
+   width: 30px;
+   height: 30px;
+   z-index: 999;
+}
+#Carousel1_next
+{
+   position: absolute;
+   right: 4px;
+   top: 43%;
+   width: 30px;
+   height: 30px;
+   z-index: 999;
+}
+#Carousel1_back img, #Carousel1_next img
+{
+   border-width: 0;
+}
+#Carousel1_back a, #Carousel1_next a
+{
+   cursor: pointer;
+}
+#Carousel1 .frame-1
+{
+   background-color: #FFFFFF;
+   background: linear-gradient(135deg, #CE96FB 0%, #FFFFFF 100%);
+}
+#Carousel1 .frame-2
+{
+   background-color: #CE96FB;
+   background: linear-gradient(315deg, #FFFFFF 0%, #CE96FB 100%);
+}
+#Carousel1 .frame-3
+{
+   background-color: #CE96FB;
+   background: linear-gradient(225deg, #CE96FB 0%, #FFFFFF 100%);
+}
+#wb_Text1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #C0C0C0;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text1 div
+{
+   text-align: center;
+}
+#wb_Text2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #C0C0C0;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#wb_Text3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #C0C0C0;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text3 div
+{
+   text-align: left;
+}
+#wb_Text4
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #C0C0C0;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text4 div
+{
+   text-align: left;
+}
+
+#wb_Marquee1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   text-align: left;
+   padding: 0px 0px 0px 0px;
+}
+#wb_Marquee1
+{
+   overflow: hidden;
+   position: relative;
+}
+#Marquee1
+{
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   margin: 0;
+   padding: 0;
+   -webkit-animation: Marquee1-marquee 9000ms linear infinite;
+   animation: Marquee1-marquee 9000ms linear infinite;
+}
+@-webkit-keyframes Marquee1-marquee
+{
+   0%
+   {
+   -webkit-transform: translateX(100%);
+   }
+   100%
+   {
+   -webkit-transform: translateX(-100%);
+   }
+}
+@keyframes Marquee1-marquee
+{
+   0%
+   {
+   transform: translateX(100%);
+   }
+   100%
+   {
+   transform: translateX(-100%);
+   }
+}
+.banner h2 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 3em;
+}
+
+.banner ul {
+    margin-bottom: 0;
+}
+
+.banner-social-buttons {
+    float: right;
+    margin-top: 0;
+}
+
+@media(max-width:1199px) {
+    ul.banner-social-buttons {
+        float: left;
+        margin-top: 15px;
+    }
+}
+
+@media(max-width:767px) {
+    .banner h2 {
+        margin: 0;
+        text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+        font-size: 3em;
+    }
+
+    ul.banner-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.banner-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+}
+
+footer {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+
+p.copyright {
+    margin: 15px 0 0;
+}
