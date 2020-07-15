@@ -21,7 +21,7 @@
 url: http://quickcheckout.in/
 # title: <img src='./img/logo_small.png' /> QuickCheckout. <span style="font-size:20px;line-height:31px;color:#CC66FF;"><strong>Same Store... Better Experience!</strong></span>
 #title: <span style="color:#ffffff;">QuickCheckout&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:14px;line-height:14px;color:#ff8fcf;"><strong>  Same Store... Better Experience!</strong></span>
-title: <img src='./img/logo_small.png' /> QuickCheckout
+title: QuickCheckout <img src='./img/logo_small.png' />
 subtitle: QC
 email: quickcheckout@xmarbles.com
 author: 
@@ -44,11 +44,19 @@ plugins:
 social:
   # - title: twitter
   #   url: https://twitter.com/quickcheckout
+  # - title: email 
+  #   url: emailto:quickcheckout@xmarbles.com
+  # - title: phone
+  #   url: 'tel:+91 99809 18283, +91 99809 28384'
   - title: facebook
     url: https://facebook.com/quickcheckout
   - title: linkedin
     url: https://www.linkedin.com/company/quickcheckout/
-  
+
+assets:
+  sources:
+      -fonts/Montserrat
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
