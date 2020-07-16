@@ -45,10 +45,10 @@ plugins:
 social:
   # - title: twitter
   #   url: https://twitter.com/quickcheckout
-  - title: facebook
-    url: https://facebook.com/quickcheckout
-  - title: linkedin
-    url: https://www.linkedin.com/company/quickcheckout/
+  # - title: facebook
+  #   url: https://facebook.com/quickcheckout
+  # - title: linkedin
+  #   url: https://www.linkedin.com/company/quickcheckout/
   
 # Exclude from processing.
 # The following items will not be processed, by default.
