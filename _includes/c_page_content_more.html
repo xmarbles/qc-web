@@ -1,0 +1,29 @@
+<section id="services">
+  <!-- Page Content -->
+  {% for post in site.posts reversed %} {% if post.path contains 'more' %} {%
+  capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %} {% if thecycle ==
+  'odd' %}
+  <div class="content-section-a">
+    <div class="container">
+      <div class="row">
+        <h2 class="section-heading">{{ post.title }}</h2>
+        <div class="lead">{{ post.content }}</div>
+      </div>
+    </div>
+    <!-- /.container -->
+  </div>
+  <!-- /.content-section-a -->
+  {% else %}
+
+  <div class="content-section-b">
+    <div class="container">
+      <div class="row">
+        <h2 class="section-heading">{{ post.title }}</h2>
+        <div class="lead">{{ post.content }}</div>
+      </div>
+    </div>
+    <!-- /.container -->
+  </div>
+  <!-- /.content-section-b -->
+  {% endif %} {% endif %} {% endfor %}
+</section>

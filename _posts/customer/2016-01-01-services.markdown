@@ -1,8 +1,0 @@
----
-layout: default
-img: promo.png
-category: Services
-title: Promotion/Offers
-description: |
----
-  You need not search too. They show up by default.<br> Easily showup current promotional items and Offers
