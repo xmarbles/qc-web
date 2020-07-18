@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-url: https://quickcheckout.in
+url: http://quickcheckout.in/
 # title: <img src='./img/logo_small.png' /> QuickCheckout. <span style="font-size:20px;line-height:31px;color:#CC66FF;"><strong>Same Store... Better Experience!</strong></span>
 #title: <span style="color:#ffffff;">QuickCheckout&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:14px;line-height:14px;color:#ff8fcf;"><strong>  Same Store... Better Experience!</strong></span>
 title: QuickCheckout
@@ -34,7 +34,7 @@ copyright: 'Copyright &copy; 2020 xMarbles. All Rights Reserved.'
 credits: 'Credits: Theme design from open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://quickcheckout.in" 
+url: "https://quickcheckout.in" 
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -45,7 +45,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap  
   - jekyll-last-modified-at
-
+  
 social:
   # - title: twitter
   #   url: https://twitter.com/quickcheckout
@@ -74,3 +74,4 @@ social:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+last_modified_at: 2020-07-18T00:00:00+05:30
