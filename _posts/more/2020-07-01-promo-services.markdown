@@ -4,6 +4,7 @@ img: promo.png
 category: Services
 title: Promotion, Offers and More ...
 description: |
+permalink: /promotions
 ---
 
 You need not search too. They show up by default. Easily showup current promotional items and Offers

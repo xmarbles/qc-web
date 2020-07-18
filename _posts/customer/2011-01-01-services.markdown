@@ -4,6 +4,7 @@ img: online_shopping.png
 category: Services
 title: Contactless | Safety
 description: |
+permalink: /safe-shopping
 ---
   Reduce risk, go for contactless shopping using QuickCheckout. Delivery from your known neighbourhood shop.
 

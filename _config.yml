@@ -27,21 +27,25 @@ logo: /img/logo.png
 
 email: quickcheckout@xmarbles.com
 author: 
-description: > # "Write an awesome description for your new site here. 
-  Same Store... Better Experience...
+description: QuickCheckout is a mobile app for online shopping from
+  your neighbourhood store. Order from your favourite neighbourhood store
+  and even discover new ones!. 
 copyright: 'Copyright &copy; 2020 xMarbles. All Rights Reserved.'
 credits: 'Credits: Theme design from open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://quickcheckout.in" 
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
 # Build settings
 theme: minima
-plugins:
+plugins: 
   - jekyll-feed
-
+  - jekyll-seo-tag
+  - jekyll-sitemap  
+  - jekyll-last-modified-at
+  
 social:
   # - title: twitter
   #   url: https://twitter.com/quickcheckout
@@ -69,3 +73,5 @@ social:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+last_modified_at: 2020-07-18T00:00:00+05:30

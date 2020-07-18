@@ -4,6 +4,7 @@ img: neighbor_store.svg
 category: Services
 title: Think Global, Support Local
 description: |
+permalink: /think-global-support-local
 ---
   Shop at your home comfort, get it delivered from your neighbourhood store..
   

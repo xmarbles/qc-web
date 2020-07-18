@@ -4,5 +4,6 @@ img: group_shoppers.png
 category: Services
 title: Same App, Many Stores
 description: |
+permalink: /many-stores
 ---
   Enjoy shopping from multiple stores from your neighbourhood with single app!
