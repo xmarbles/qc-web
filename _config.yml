@@ -45,7 +45,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap  
   - jekyll-last-modified-at
-  
+
 social:
   # - title: twitter
   #   url: https://twitter.com/quickcheckout
@@ -74,4 +74,3 @@ social:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-last_modified_at: 2020-07-18T00:00:00+05:30
