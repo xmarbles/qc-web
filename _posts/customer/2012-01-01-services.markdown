@@ -5,5 +5,6 @@ category: Services
 title: Quick Deliveries
 description: |
 permalink: /quick-deliveries
+date: 2020-07-18T00:00:00+05:30
 ---
   Local stores deliver faster, period. No more delivery slots and waiting for your order. <br><br>You could opt for “store pick up” if you happen to, say, come by store while back from office

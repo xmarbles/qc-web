@@ -5,5 +5,6 @@ category: Services
 title: Same App, Many Stores
 description: |
 permalink: /many-stores
+date: 2020-07-18T00:00:00+05:30
 ---
   Enjoy shopping from multiple stores from your neighbourhood with single app!

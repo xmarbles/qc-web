@@ -44,7 +44,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap  
-  - jekyll-last-modified-at
   
 social:
   # - title: twitter
@@ -74,5 +73,3 @@ social:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-last_modified_at: 2020-07-18T00:00:00+05:30
-safe: false

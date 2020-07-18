@@ -5,6 +5,7 @@ category: Services
 title: Promotion, Offers and More ...
 description: |
 permalink: /promotions
+date: 2020-07-18T00:00:00+05:30
 ---
 
 You need not search too. They show up by default. Easily showup current promotional items and Offers

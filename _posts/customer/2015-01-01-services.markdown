@@ -5,6 +5,7 @@ category: Services
 title: Think Global, Support Local
 description: |
 permalink: /think-global-support-local
+date: 2020-07-18T00:00:00+05:30
 ---
   Shop at your home comfort, get it delivered from your neighbourhood store..
   

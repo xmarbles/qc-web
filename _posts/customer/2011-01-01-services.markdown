@@ -5,6 +5,7 @@ category: Services
 title: Contactless | Safety
 description: |
 permalink: /safe-shopping
+date: 2020-07-18T00:00:00+05:30
 ---
   Reduce risk, go for contactless shopping using QuickCheckout. Delivery from your known neighbourhood shop.
 
