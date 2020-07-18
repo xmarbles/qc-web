@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-url: http://quickcheckout.in/
+url: https://quickcheckout.in
 # title: <img src='./img/logo_small.png' /> QuickCheckout. <span style="font-size:20px;line-height:31px;color:#CC66FF;"><strong>Same Store... Better Experience!</strong></span>
 #title: <span style="color:#ffffff;">QuickCheckout&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:14px;line-height:14px;color:#ff8fcf;"><strong>  Same Store... Better Experience!</strong></span>
 title: QuickCheckout
