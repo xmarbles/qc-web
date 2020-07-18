@@ -75,3 +75,4 @@ social:
 #   - vendor/ruby/
 
 last_modified_at: 2020-07-18T00:00:00+05:30
+safe: false
