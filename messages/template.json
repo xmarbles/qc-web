@@ -1,0 +1,33 @@
+{
+    "title": "Sleeping",
+    "content": "QuickCheckout is sleeping to save the resources. Please use the app between 7AM to 11PM.  ",
+    "action": "Exit",
+    "schedule_type": "Daily",
+    "start_time": "23:00",
+    "end_time": "07:00"
+}
+
+
+{
+    "title": "Update Required",
+    "content": "Currnet version of the App is no longer supported. Please update the app",
+    "action": "Update",
+    "start_ts": "15-05-2020 23:00",
+    "end_ts": "20-05-2020 06:00",
+    "app_details": {
+        "appName": "",
+        "appStoreId": "",
+        "appStoreLocale": "",
+        "playStoreId": "com.quickcheckout_app"
+    }
+}
+
+{
+    "title": "Alert",
+    "content": "Due to COVID-19. Order deliveries are delayed. Please co-operate",
+    "action": "Continue",
+    "start_date": "15-05-2020 23:00",
+    "start_time": "23:00",
+    "end_date": "20-05-2020 06:00",
+    "end_time": "23:00"
+}
