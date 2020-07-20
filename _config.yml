@@ -21,13 +21,13 @@
 url: http://quickcheckout.in/
 # title: <img src='./img/logo_small.png' /> QuickCheckout. <span style="font-size:20px;line-height:31px;color:#CC66FF;"><strong>Same Store... Better Experience!</strong></span>
 #title: <span style="color:#ffffff;">QuickCheckout&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-size:14px;line-height:14px;color:#ff8fcf;"><strong>  Same Store... Better Experience!</strong></span>
-title: QuickCheckout
+title: QuickCheckout | Same Store... Beter Experience...
 subtitle: QC
 logo: /img/logo.png
 
 email: quickcheckout@xmarbles.com
 author: 
-description: Same Store... Beter Experience... Shop from your favourite neighbourhood stores
+description: Shop from your favourite neighbourhood stores. QuickCheckout is a mobile-first designed solution for online shopping from your neighbourhood store. Order from your favourite neighbourhood store and even discover new ones!
   and even discover new ones! 
 copyright: 'Copyright &copy; 2020 xMarbles. All Rights Reserved.'
 credits: 'Credits: Theme design from open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
