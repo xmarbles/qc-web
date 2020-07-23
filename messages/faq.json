@@ -1,10 +1,34 @@
 [
   {
-    "title": "First",
-    "content": "Lorem ipsum..."
+    "title": "Can I add products from different Stores?",
+    "content": "One basket/Order can contain products from one store only. You can however place multiple orders with different stores. "
   },
   {
-    "title": "Second",
-    "content": "Lorem ipsum..."
+    "title": "How do I track my order?",
+    "content": "QuickCheckout app has in built notifications that inform you of your order status. You can as well visit the Delivery screen and know the order status and order details."
+  },
+  {
+    "title": "Is Delivery to home FREE?",
+    "content": "This purely depends on the store and your order size. Few stores deliver free if order value is greater than some specified amount. There may be distance conditions as well if delivery is to be made to far locations from store. You will know the details before you place your order."
+  },
+  {
+    "title": "Can I book a slot? Is time of delivery customizable?",
+    "content": "Remember this is still your neighborhood or local store and so you are free to give your choice in the order or call the store and ask for delivery time changes. Store will call and inform before delivery. So you are in total control"
+  },
+  {
+    "title": "What precautions are taken by delivery agents?",
+    "content": "We take the Covid pandemic seriously. Given the covid situations, all delivery agents take maximum precautions. Each store provides personal preventive items like masks, santizer to delivery personnel."
+  },
+  {
+    "title": "Do I have option to pay online?",
+    "content": "All payments are made directly to your store. During delivery, you can pay using UPI directly to store or store delivery personnel or use other options that are provided by your store like COD, credit/debit card payments"
+  },
+  {
+    "title": "Is COD available",
+    "content": "Yes, you have option to pay by cash on delivery."
+  },
+  {
+    "title": " How can I contact store for payment or delivery changes?",
+    "content": "Click on Support screen to get the phone numbers of the store to which you have placed order. you can always reach to QuickCheckout by email."
   }
 ]
