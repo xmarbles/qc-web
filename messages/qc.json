@@ -1,3 +1,10 @@
 [
-  
+    {
+        "title": "Upgrade in-progress",
+        "content": "QuickCheckout is moving to better environment. Upgrade is expected to complete by 9PM on 23-Nov-2020. Please come back again. Thanks",
+        "action": "Exit",
+        "schedule_type": "Daily",
+        "start_time": "17:00",
+        "end_time": "22:00"
+    }
 ]
