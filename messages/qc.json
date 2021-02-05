@@ -1,2 +1,10 @@
 [
+    {
+        "title": "Maintenance in-progress",
+        "content": "QuickCheckout is moving to better environment. Upgrade is expected to complete by 9PM on 05-Feb-2021. Please come back again. Thanks",
+        "action": "Exit",
+        "schedule_type": "Daily",
+        "start_time": "18:00",
+        "end_time": "22:00"
+    }
 ]
