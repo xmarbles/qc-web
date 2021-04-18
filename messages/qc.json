@@ -1,2 +1,10 @@
 [
+    {
+        "title": "Maintenance in-progress",
+        "content": "QuickCheckout is down for maintenance. Please contact quickcheckout@xmarbles.com",
+        "action": "Exit",
+        "schedule_type": "Daily",
+        "start_time": "00:00",
+        "end_time": "23:59"
+    }   
 ]
